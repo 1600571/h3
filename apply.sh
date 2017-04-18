@@ -1,1 +1,1 @@
-sudo puppet apply --modulepath puppet/modules/ -e 'class {apache:}'
+sudo puppet apply --modulepath /home/xubuntu/h3/ -e 'class {apache:}'
